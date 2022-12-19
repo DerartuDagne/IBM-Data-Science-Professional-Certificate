@@ -15,7 +15,8 @@ Data Science in Business
 # [Course: 7 Databases-and-SQL-for-Data-Science-with-Python (Honors Week 1 - Week 6)](https://www.coursera.org/learn/sql-data-science/home/week/6)
 ![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/IBMDB.jpg)
 This Course contains the answers for coursera 's updated "Databases and SQL for Data Science with Python " course by ibm including the honors assignment .
-week 1 : Getting started with Sql
+## week 1 : Getting started with Sql
+![](IBMDB.jpg)
 week 2 : Introduction to relational Databases and Tables 
 week 3 : intermediate Sql 
 week 4 : Accessing databases with Python 
