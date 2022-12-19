@@ -12,4 +12,4 @@ Data Science in Business
 # Course: 3 Data Science Methodology
 # Course: 4 Python for Data Science, AI & Development
 # Course: 6 Python Project for Data Science
-# Course: 7 Databases-and-SQL-for-Data-Science-with-Python (Honors Week 1 - Week 6)
+# [Course: 7 Databases-and-SQL-for-Data-Science-with-Python (Honors Week 1 - Week 6)](https://www.coursera.org/learn/sql-data-science/home/week/6)
