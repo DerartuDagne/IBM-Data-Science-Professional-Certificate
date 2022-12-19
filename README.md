@@ -13,4 +13,4 @@ Data Science in Business
 # Course: 4 Python for Data Science, AI & Development
 # Course: 6 Python Project for Data Science
 # [Course: 7 Databases-and-SQL-for-Data-Science-with-Python (Honors Week 1 - Week 6)](https://www.coursera.org/learn/sql-data-science/home/week/6)
-![alt text](IBMDB.jpg)
+![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/tree/main/Images)
