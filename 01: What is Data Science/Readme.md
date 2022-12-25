@@ -17,4 +17,10 @@ Quiz1:Data Science: The Sexiest Job in the 21st Century
 
 Quiz2:What Makes Someone a Data Scientist?
 
+### Week-2
+
+Quiz2.1:Data Mining
+
+Quiz2.2:Regression
+
 
