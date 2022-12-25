@@ -16,6 +16,6 @@ Data Science in Business
 ![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/IBMDB.jpg) week 1 : Getting started with Sql
 week 2 : Introduction to relational Databases and Tables, week 3 : intermediate Sql , week 4 : Accessing databases with Python ,week 5 : Course Assignment 
 week 6 : Bonus Module : Advance Sql for DataEngineers (Honors)
-# Course 6: Data Visualization with Python
+# [Course 6: Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 ![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/Datavizpyt.jpg)
-Week 1:Introduction to Matplotlib and Line Plots
+##[Week 1:Introduction to Matplotlib and Line Plots]()
