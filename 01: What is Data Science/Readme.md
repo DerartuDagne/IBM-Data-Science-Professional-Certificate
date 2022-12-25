@@ -3,4 +3,6 @@ Data science is the field of gaining insights from data, often with a focus on u
 ##Topics
 -Defining Data Science Defining Data Science and What Data Scientists Do
 -What Data Scientists Do
+-Deep Learning and Machine Learning
+-Data Science in Business
 ##Quiz
