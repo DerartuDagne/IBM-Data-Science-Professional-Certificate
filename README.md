@@ -18,3 +18,4 @@ week 2 : Introduction to relational Databases and Tables, week 3 : intermediate 
 week 6 : Bonus Module : Advance Sql for DataEngineers (Honors)
 # Course 6: Data Visualization with Python
 ![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/Datavizpyt.jpg)
+Week 1:Introduction to Matplotlib and Line Plots
