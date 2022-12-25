@@ -6,3 +6,7 @@ Data science is the field of gaining insights from data, often with a focus on u
 -Deep Learning and Machine Learning
 -Data Science in Business
 ## Quiz
+Quiz1:Data Science: The Sexiest Job in the 21st Century
+Quiz2:What Makes Someone a Data Scientist?
+
+
