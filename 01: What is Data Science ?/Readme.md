@@ -7,4 +7,6 @@ Data science is the field of gaining insights from data, often with a focus on u
 -Deep Learning and Machine Learning
 -Data Science in Business
 ## Quiz
+###Quiz1![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/Quiz1.png)
+
 # Certificates
