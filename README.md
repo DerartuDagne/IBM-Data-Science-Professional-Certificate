@@ -1,7 +1,5 @@
 ![](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Images/Ibmimage.png)
-# [Course 1: What is Data Science?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/blob/main/Course%201:%20What%20is%20Data%20Science%20%3F)
-##Main Topics
-##Quiz
+# [Course 1: What is Data Science?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate/tree/main/01:%20What%20is%20Data%20Science/Quiz1:Data%20Science:%20The%20Sexiest%20Job%20in%20the%2021st%20Century)
 # Course: 2 Tools for Data Science
 # Course: 3 Data Science Methodology
 # Course: 4 Python for Data Science, AI & Development
